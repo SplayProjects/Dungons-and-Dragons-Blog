@@ -1,0 +1,26 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/"
+    weight = 1
+
+[[main]]
+  identifier = "D&D Main Website"
+  name = "D&D Main Website"
+  url = "https://dnd.wizards.com/"
+  weight = 4
+
+[[main]]
+  identifier = "D&D Beyond"
+  name = "D&D Beyond"
+  url = "https://www.dndbeyond.com/"
+  weight = 4
+
+[[main]]
+  identifier = "Reddit DND"
+  name = "Reddit DND"
+  url = "https://www.reddit.com/r/dndnext/"
+  weight = 4
+
+
